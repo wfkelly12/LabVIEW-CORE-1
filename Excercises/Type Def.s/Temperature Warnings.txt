@@ -1,0 +1,8 @@
+48.324896 	 30.000000 	 20.000000 	 TRUE 	 Heatstroke Warning 
+49.481873 	 30.000000 	 20.000000 	 TRUE 	 Heatstroke Warning 
+52.716293 	 30.000000 	 20.000000 	 TRUE 	 Heatstroke Warning 
+53.523740 	 30.000000 	 20.000000 	 TRUE 	 Heatstroke Warning 
+51.331028 	 30.000000 	 20.000000 	 TRUE 	 Heatstroke Warning 
+51.908387 	 30.000000 	 20.000000 	 TRUE 	 Heatstroke Warning 
+54.791664 	 30.000000 	 20.000000 	 TRUE 	 Heatstroke Warning 
+52.023830 	 30.000000 	 20.000000 	 TRUE 	 Heatstroke Warning 
